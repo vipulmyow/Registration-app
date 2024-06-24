@@ -33,6 +33,6 @@
 
    <h1> Thank You </h1>
    <h1> See You Again </h1>
-   <h1> Vipul Patil You are doing greate job Today, See You Tomorrow BYE BYE ! </h1>
+   <h1> Vipul Patil You are doing greate job Today, See You Tomorrow BYE BYE ! All The Best </h1>
    
 </form>
