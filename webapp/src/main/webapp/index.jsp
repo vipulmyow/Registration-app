@@ -30,7 +30,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-
+   <img src="myow.jpg" alt="Myow logo">
    <h1> Thank You </h1>
    <h1> See You Again </h1>
    <h1> Vipul Patil You are doing greate job Today, See You Tomorrow BYE BYE ! All The Best </h1>
