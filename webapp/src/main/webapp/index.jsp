@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps </h1>
+    <h1>Register for DevOps </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -33,6 +33,6 @@
    <img src="myow.jpg" alt="Myow logo">
    <h1> Thank You </h1>
    <h1> See You Again </h1>
-   <h1> Vipul Patil You are doing greate job Today, See You Tomorrow BYE BYE ! All The Best </h1>
+   <h1> Vipul Patil You are doing great job Today, See You Tomorrow BYE BYE ! All The Best </h1>
    
 </form>
